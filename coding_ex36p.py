@@ -1,6 +1,6 @@
 num=[]
 etc=[]
-for a in range(0, 6):
+for a in range(0, 7):
     for b in range(0, 10):
         for c in range(0, 10):
             for d in range(0,10):
